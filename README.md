@@ -6,7 +6,8 @@
 
 <br>
 
-Software & System Developer specializing in web engineering, backend technologies, and system administration.
+Cybersecurity & Penetration Testing Enthusiast | Active Bug Bounty Hunter 🎯  
+Focused on Web & Mobile Application Security, Web Design, and Custom Development.
 
 <br>
 
@@ -17,17 +18,6 @@ Software & System Developer specializing in web engineering, backend technologie
     <img src="https://skillicons.dev/icons?i=py,html,css,js,cs,wordpress,linux,bash" />
   </a>
 </p>
-
-<br>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=llumutlysb&theme=tokyonight&show_icons=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llumutlysb&theme=tokyonight&layout=compact" />
-</p>
-
-<br>
 
 ### 🌐 Connect With Me
 
