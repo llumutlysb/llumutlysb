@@ -7,7 +7,7 @@
 <br>
 
 Cybersecurity & Penetration Testing Enthusiast | Active Bug Bounty Hunter 🎯  
-Focused on Web & Mobile Application Security, Web Design, and Custom Development.
+Mobile Application Developer | Web Design & SEO Analyst
 
 <br>
 
@@ -15,9 +15,21 @@ Focused on Web & Mobile Application Security, Web Design, and Custom Development
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,cs,wordpress,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,cs,flutter,dart,wordpress,linux,bash" />
   </a>
 </p>
+
+<br>
+
+### 📊 GitHub Stats
+
+<!-- GitHub İstatistik Kartları -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=llumutlysb&theme=tokyonight&show_icons=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llumutlysb&theme=tokyonight&layout=compact" />
+</p>
+
+<br>
 
 ### 🌐 Connect With Me
 
